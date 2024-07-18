@@ -2,7 +2,12 @@ package 프로그래머스.메뉴리뉴얼;
 
 import java.util.*;
 import java.util.stream.Collectors;
-
+/**
+ *  문제 플랫폼 : 프로그래머스
+ *  문제 이름 : 메뉴 리뉴얼
+ *  문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/72411
+ *  난이도 : Lv.2
+ */
 public class Solution {
     public static void main(String[] args) {
         String[] orders = {"ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"};

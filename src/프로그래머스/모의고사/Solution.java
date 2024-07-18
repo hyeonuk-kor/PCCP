@@ -1,9 +1,13 @@
 package 프로그래머스.모의고사;
 
 import 프로그래머스.MyUtil.ArrayParser;
-
 import java.util.stream.IntStream;
-
+/**
+ *  문제 플랫폼 : 프로그래머스
+ *  문제 이름 : 모의고사
+ *  문제 링크 :  https://school.programmers.co.kr/learn/courses/30/lessons/42840
+ *  난이도 :  Lv.1
+ */
 public class Solution {
     public static void main(String[] args) {
         String[] input = {"[1,2,3,4,5]", "[1,3,2,4,2]"};

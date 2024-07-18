@@ -4,6 +4,12 @@ import 프로그래머스.MyUtil.ArrayParser;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
+/**
+ *  문제 플랫폼 : 프로그래머스
+ *  문제 이름 : 가장 많이 받은 선물
+ *  문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/258712
+ *  난이도 : Lv.1
+ */
 public class Solution {
     public static void main(String[] args) {
         String[][] input = {
