@@ -1,6 +1,6 @@
-package 프로그래머스_모의고사;
+package 프로그래머스.모의고사;
 
-import MyUtil.ArrayParser;
+import 프로그래머스.MyUtil.ArrayParser;
 
 import java.util.stream.IntStream;
 

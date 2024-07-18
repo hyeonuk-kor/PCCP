@@ -1,4 +1,4 @@
-package MyUtil;
+package 프로그래머스.MyUtil;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package 프로그래머스_메뉴리뉴얼;
+package 프로그래머스.메뉴리뉴얼;
 
 import java.util.*;
 import java.util.stream.Collectors;

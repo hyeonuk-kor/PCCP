@@ -1,6 +1,6 @@
-package 프로그래머스_가장많이받은선물;
+package 프로그래머스.가장많이받은선물;
 
-import MyUtil.ArrayParser;
+import 프로그래머스.MyUtil.ArrayParser;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
