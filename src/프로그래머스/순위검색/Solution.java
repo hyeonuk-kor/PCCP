@@ -25,7 +25,7 @@ public class Solution {
 
     public static int[] solution(String[] info, String[] query) {
         Map<String, List<Integer>> scoresMap = buildScoreMap(info);
-        /*
+        /**
         int[] answer = new int[query.length];
         for(int i=0; i<answer.length; i++) {
             answer[i] = count(query[i], scoresMap);
